@@ -1,4 +1,4 @@
-# Caso1
+# Case_1
 
 ![Image](https://github.com/user-attachments/assets/3858bd29-19ad-4722-b497-36b3ae924b5b)
 
