@@ -1,3 +1,12 @@
+# Objetivo
+
+Este projeto tem o objetivo de aplicar vários testes de hipóteses em diferentes cenários. Seremos consultores de Data Science para atuar em diversos projetos. Dessa forma, vamos aplicar alguns conceitos para entender a respeito de teste de hipóteses, será abordado sobre:
+
+Testes de hipóteses para uma amostra;
+Testes de hipóteses para duas amostras;
+Testes não paramétricos.
+
+
 # Case_1
 
 ![Image](https://github.com/user-attachments/assets/3858bd29-19ad-4722-b497-36b3ae924b5b)
