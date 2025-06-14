@@ -15,4 +15,3 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 
 ![Image](https://github.com/user-attachments/assets/70586f7c-deb4-420d-aff4-24b880ca5e5d)
 
-Case 2
