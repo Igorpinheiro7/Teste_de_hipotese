@@ -58,3 +58,5 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 #  Formulando Hipótese
 
 <img width="1185" height="448" alt="Image" src="https://github.com/user-attachments/assets/910d1159-0086-4533-975d-0ec0d6949e5a" />
+
+<img width="1326" height="616" alt="Image" src="https://github.com/user-attachments/assets/adfe112b-2597-420a-87da-69bd9fd8a7e7" />
