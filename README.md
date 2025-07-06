@@ -25,3 +25,11 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 
 <img width="1464" height="535" alt="Image" src="https://github.com/user-attachments/assets/cc549632-e528-4e51-b8f5-96194a4bfbe1" />
 <img width="1433" height="544" alt="Image" src="https://github.com/user-attachments/assets/00b03f15-5fd4-4f0f-9296-acfb9f7dd622" />
+
+# Case_2 
+
+<img width="998" height="548" alt="Image" src="https://github.com/user-attachments/assets/abacca11-f566-471f-8788-a05a5d8e6a9b" />
+
+# Estabelecendo um intervalo de confiança
+
+<img width="1459" height="599" alt="Image" src="https://github.com/user-attachments/assets/303dea98-2a64-4be7-be90-5d7199ebc892" />
