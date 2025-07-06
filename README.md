@@ -32,13 +32,14 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 
 # Estabelecendo um intervalo de confiança
 
-
 <img width="1459" height="599" alt="Image" src="https://github.com/user-attachments/assets/303dea98-2a64-4be7-be90-5d7199ebc892" />
 <img width="1454" height="364" alt="Image" src="https://github.com/user-attachments/assets/c3549c5c-1d91-412f-bb14-8014c434586e" />
 
 # Case_3
 
 <img width="1003" height="578" alt="Image" src="https://github.com/user-attachments/assets/eea6c06d-a3c4-4e7a-92ca-8ce456223ab4" />
+
 # Estabelecendo a regra de decisão
+
 <img width="1440" height="582" alt="Image" src="https://github.com/user-attachments/assets/67d9b136-0021-4f3b-9a54-4a1fb33b3247" />
 <img width="1288" height="610" alt="Image" src="https://github.com/user-attachments/assets/e88b160a-8f39-4c7b-a1b6-52ee6194ad3b" />
