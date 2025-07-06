@@ -46,3 +46,5 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 <img width="1288" height="610" alt="Image" src="https://github.com/user-attachments/assets/e88b160a-8f39-4c7b-a1b6-52ee6194ad3b" />
 
 <img width="1280" height="326" alt="Image" src="https://github.com/user-attachments/assets/13fc62ae-13b7-4499-a91f-d27a112a73d6" />
+
+<img width="1256" height="575" alt="Image" src="https://github.com/user-attachments/assets/ad13ce37-2d24-4af7-856a-6c547ab366a0" />
