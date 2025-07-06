@@ -55,4 +55,6 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 
 <img width="865" height="424" alt="Image" src="https://github.com/user-attachments/assets/7a48ab4c-dd91-485b-9a81-63cc0f7a7034" />
 
-#  Teste para uma amostra pequena
+#  Formulando Hipótese
+
+<img width="1185" height="448" alt="Image" src="https://github.com/user-attachments/assets/910d1159-0086-4533-975d-0ec0d6949e5a" />
