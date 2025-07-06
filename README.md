@@ -38,3 +38,6 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 # Case_3
 
 <img width="1003" height="578" alt="Image" src="https://github.com/user-attachments/assets/eea6c06d-a3c4-4e7a-92ca-8ce456223ab4" />
+# Estabelecendo a regra de decisão
+<img width="1440" height="582" alt="Image" src="https://github.com/user-attachments/assets/67d9b136-0021-4f3b-9a54-4a1fb33b3247" />
+<img width="1288" height="610" alt="Image" src="https://github.com/user-attachments/assets/e88b160a-8f39-4c7b-a1b6-52ee6194ad3b" />
