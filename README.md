@@ -62,3 +62,7 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 <img width="1326" height="616" alt="Image" src="https://github.com/user-attachments/assets/adfe112b-2597-420a-87da-69bd9fd8a7e7" />
 
 <img width="963" height="681" alt="Image" src="https://github.com/user-attachments/assets/66ae5198-9828-484d-a141-3cde5221b8e6" />
+
+# Teste para duas amostras
+
+<img width="563" height="455" alt="Image" src="https://github.com/user-attachments/assets/97c108c7-78a6-4182-a352-f93bb68a9555" />
