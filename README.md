@@ -32,6 +32,7 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 
 # Estabelecendo um intervalo de confiança
 
+
 <img width="1459" height="599" alt="Image" src="https://github.com/user-attachments/assets/303dea98-2a64-4be7-be90-5d7199ebc892" />
 <img width="1454" height="364" alt="Image" src="https://github.com/user-attachments/assets/c3549c5c-1d91-412f-bb14-8014c434586e" />
 
