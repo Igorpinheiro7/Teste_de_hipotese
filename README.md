@@ -50,3 +50,9 @@ O primeiro caso é um controle de qualidade. A empresa nos disse que foi feita u
 <img width="1256" height="575" alt="Image" src="https://github.com/user-attachments/assets/ad13ce37-2d24-4af7-856a-6c547ab366a0" />
 
 <img width="1243" height="462" alt="Image" src="https://github.com/user-attachments/assets/1252aac4-7899-4c3b-a8ef-52e9657f520f" />
+
+# Case_4
+
+<img width="865" height="424" alt="Image" src="https://github.com/user-attachments/assets/7a48ab4c-dd91-485b-9a81-63cc0f7a7034" />
+
+#  Teste para uma amostra pequena
