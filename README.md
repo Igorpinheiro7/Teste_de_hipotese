@@ -1,4 +1,4 @@
-# Objetivo
+# Objetiv
 
 Este projeto tem o objetivo de aplicar vários testes de hipóteses em diferentes cenários. Seremos consultores de Data Science para atuar em diversos projetos. Dessa forma, vamos aplicar alguns conceitos para entender a respeito de teste de hipóteses, neste projeto será abordado sobre:
 
